@@ -31,3 +31,5 @@ reports/     → outputs
 - Add pipeline automation
 - Monitor model performance
 
+## API
+This project will include an API for predictions.
