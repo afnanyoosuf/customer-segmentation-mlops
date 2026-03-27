@@ -33,3 +33,6 @@ reports/     → outputs
 
 ## API
 This project will include an API for predictions.
+
+## Docker
+Docker support will be added for deployment.
