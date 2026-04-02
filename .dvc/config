@@ -1,4 +1,6 @@
 [core]
-    remote = myremote
+    remote = myremotes
 ['remote "myremote"']
     url = /dvc-storage
+['remote "myremotes"']
+    url = ../ML/dvc-storage
