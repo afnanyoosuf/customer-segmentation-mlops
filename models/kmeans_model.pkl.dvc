@@ -1,0 +1,5 @@
+outs:
+- md5: c0b20b800d6668560b2703ef451effbb
+  size: 1191
+  hash: md5
+  path: kmeans_model.pkl
